@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=ErDharmesh&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently exploring about **RAG applications & Applied LLMs**
+- 🌱 DevOps Engineer with 3 years of experience in building and optimizing cloud infrastructure. Skilled in automation, containerization (Docker, Kubernetes), and CI/CD pipelines. Proficient in tools like Terraform, AWS, and Azure, with a strong focus on system reliability, scalability, and performance. Passionate about streamlining development processes and deploying efficient, secure solutions.
 
-- 👨‍💻 All of my projects are available [here](https://www.vivek9patel.com/projects)
+- 👨‍💻 All of my projects are available [here](https://github.com/ErDharmesh)
 
 - 📫 How to reach me **dharmeshnandavana09@gmail.com**
 
