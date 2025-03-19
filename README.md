@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dharmesh Nandavana</h1>
-<h3 align="center">DevOps and Backend Engineer with over 3 years of expeirence</h3>
-	
+<h3 align="center">DevOps and Backend Engineer with over 3 years of expeirence! </h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ErDharmesh&color=blueviolet&style=flat">
 </p>
